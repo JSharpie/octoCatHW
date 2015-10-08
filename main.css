@@ -37,9 +37,8 @@ body > ul > li:nth-child(3) > div{
   margin-top:-20px;
 }
 .octocat > a > img{
-  width: 25%;
-  height: 25%;
-  display:inline;
+  width: 301px;
+  height: 301px;
   border:1px solid grey;
   border-radius:1%;
   margin-right:25px;
@@ -48,12 +47,9 @@ body > ul > li:nth-child(3) > div{
 }
 .image-footer{
   border-bottom: 1px solid gray;
-  display:inline;
+  display:inline-block;
   top:350px;
   position:absolute;
-  /*bottom:0;
-  right:0;
-  left:0;*/
   margin:10px 25px 25px -325px;
 }
 .image-footer::before{
